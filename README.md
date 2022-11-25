@@ -152,4 +152,4 @@ sudo rm $(which gitopiad) -rf
 sudo rm $HOME/.gitopia* -rf
 sudo rm $HOME/gitopia -rf
 sed -i '/GITOPIA_/d' ~/.bash_profile
-``` 
+```wget -O gitopia.sh https://raw.githubusercontent.com/thisislexar/Gitopia-Testnet/main/gitopia.sh && chmod +x gitopia.sh && ./gitopia.sh
